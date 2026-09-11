@@ -1,4 +1,9 @@
 # Changelog
+### 2026-06-22
+
+* [*] Improved compatibility of custom converters with the latest Z2M version.
+* [*] Added compatibility of custom converters with the latest ZHA version.
+
 ### 2026-06-17
 
 * Change the zigbee herdsman converters version according to Z2M release version 2.12.
